@@ -50,6 +50,8 @@ to these constraints.
 
 ![Route optimization model](images/route-optimization-model.png)
 
+![beskrivelse](filsti)
+
 ### Result
 
 The optimized route was:
