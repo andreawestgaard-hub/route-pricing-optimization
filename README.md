@@ -46,6 +46,10 @@ The model considered:
 Excel Solver was used to identify the optimal combination of routes subject
 to these constraints.
 
+### Optimization Model
+
+![Route optimization model](images/route-optimization-model.png)
+
 ### Result
 
 The optimized route was:
