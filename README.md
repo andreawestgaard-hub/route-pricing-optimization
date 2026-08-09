@@ -78,6 +78,12 @@ The model incorporated:
 Excel Solver was used to determine ticket prices satisfying the defined
 constraints.
 
+### Pricing Model
+
+![Ticket pricing optimization model](images/pricing-optimization-model.png)
+
+
+
 ## 3. Sensitivity Analysis
 
 Sensitivity analysis was used to examine how changes in important assumptions
